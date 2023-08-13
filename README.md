@@ -15,9 +15,18 @@ run the test.py to check whether the model can work properly.
 
 # Environment
 ```  conda env create -f mp3d.yml  ```
-- Link to this repository 
+- link to this repository 
 - execute this command to set up mp3d environment 
 - run all the code in this environment
 
 # Visualization
 
+![image](https://github.com/wwwnnnyyy/MP3D_NET/assets/61683792/a3720d5a-2e36-42c1-84b0-cf26f23d4d15)
+
+![image](https://github.com/wwwnnnyyy/MP3D_NET/assets/61683792/91540836-d19e-41fa-815c-6e2e40573034)
+
+![image](https://github.com/wwwnnnyyy/MP3D_NET/assets/61683792/faca6314-f461-471c-b8f1-3b642b5ab3f4)
+
+Each geometry of four groups of (a), (b), (c), and (d) tetrahedra was randomly selected in the test set. 
+The three rows of each group show three XoY, XoZ, and YoZ slices.
+The three columns of each group show the slices of the real model, the prediction probability of mineralization, the prediction of the mineralization result given a threshold of 0.1.
