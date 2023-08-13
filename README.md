@@ -23,9 +23,9 @@ run the test.py to check whether the model can work properly.
 
 <img src="https://github.com/wwwnnnyyy/MP3D_NET/assets/61683792/a3720d5a-2e36-42c1-84b0-cf26f23d4d15" width="700" height="500">
 
-![image](https://github.com/wwwnnnyyy/MP3D_NET/assets/61683792/91540836-d19e-41fa-815c-6e2e40573034)
+<img src="https://github.com/wwwnnnyyy/MP3D_NET/assets/61683792/91540836-d19e-41fa-815c-6e2e40573034" width="700" height="500">
 
-![image](https://github.com/wwwnnnyyy/MP3D_NET/assets/61683792/faca6314-f461-471c-b8f1-3b642b5ab3f4)
+<img src="https://github.com/wwwnnnyyy/MP3D_NET/assets/61683792/91540836-d19e-41fa-815c-6e2e40573034" width="700" height="500">
 
 Each geometry of four groups of (a), (b), (c), and (d) tetrahedra was randomly selected in the test set. 
 The three rows of each group show three XoY, XoZ, and YoZ slices.
