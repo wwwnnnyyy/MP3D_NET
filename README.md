@@ -27,7 +27,7 @@ run the test.py to check whether the model can work properly.
 <br/><br/>
 <img src="https://github.com/wwwnnnyyy/MP3D_NET/assets/61683792/cd7c59be-e7be-4a4f-aa9c-187901e90065" width="500" height="380">
 <br/><br/>
-<p align="center">
+<p>
 - Each geometry of four groups of (a), (b), (c), and (d) tetrahedra was randomly selected in the test set. 
 - The three rows of each group show three XoY, XoZ, and YoZ slices.
 - The three columns of each group show the slices of the real model, the prediction probability of mineralization, the prediction of the mineralization result given a threshold of 0.1.
