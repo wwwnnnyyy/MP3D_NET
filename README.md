@@ -1,1 +1,23 @@
 # MP3D_NET
+
+**Why do we need MP3D-NET?**
+
+Deep learning (DL) has demonstrated the potential in processing nonlinear mappings from data to inversion models based on previous great efforts. However, DL joint inversion in geophysics has not been made possible for multiple input (including 1D, 2D and 3D) and multiple output models, which are often necessary in complex geological settings and real observations. It is very common that geophysical data obtained in practice often differ in dimension and size. 
+
+So, it is often necessary to perform preprocessing such as "clipping" and "padding" of the data. This means that each batch of input requires complicated preprocessing and some information loss. In order to make the neural network accept geophysical information in multiple modalities, we designed a fully adaptive network and joint inversion framework for the recovery of 3D geological structures using geophysical data, called MP3D-NET (Multi-Physics 3D Net). It was developed from a geophysics application, but our framework has a lot of potential to be applied well in many fields.
+
+# Usage
+
+- model is in model.py
+- run python main.py to train, valid and test the model
+- notebook latefusion.ipynb is the same as the main.py, which may be an easier way to understand
+run the test.py to check whether the model can work properly.
+
+# Environment
+```  conda env create -f mp3d.yml  ```
+- Link to this repository 
+- execute this command to set up mp3d environment 
+- run all the code in this environment
+
+# Visualization
+
