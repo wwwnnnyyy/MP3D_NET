@@ -21,11 +21,11 @@ run the test.py to check whether the model can work properly.
 
 # Visualization
 
-<img src="https://github.com/wwwnnnyyy/MP3D_NET/assets/61683792/a3720d5a-2e36-42c1-84b0-cf26f23d4d15" width="500" height="340">
+<img src="https://github.com/wwwnnnyyy/MP3D_NET/assets/61683792/a3720d5a-2e36-42c1-84b0-cf26f23d4d15" width="500" height="360">
 <br/><br/>
-<img src="https://github.com/wwwnnnyyy/MP3D_NET/assets/61683792/91540836-d19e-41fa-815c-6e2e40573034" width="500" height="340">
+<img src="https://github.com/wwwnnnyyy/MP3D_NET/assets/61683792/91540836-d19e-41fa-815c-6e2e40573034" width="500" height="360">
 <br/><br/>
-<img src="https://github.com/wwwnnnyyy/MP3D_NET/assets/61683792/cd7c59be-e7be-4a4f-aa9c-187901e90065" width="500" height="340">
+<img src="https://github.com/wwwnnnyyy/MP3D_NET/assets/61683792/cd7c59be-e7be-4a4f-aa9c-187901e90065" width="500" height="360">
 <br/><br/>
 
 - Each geometry of four groups of (a), (b), (c), and (d) tetrahedra was randomly selected in the test set. 
