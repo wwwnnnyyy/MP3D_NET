@@ -21,7 +21,7 @@ run the test.py to check whether the model can work properly.
 
 # Visualization
 
-<img src="https://github.com/wwwnnnyyy/MP3D_NET/assets/61683792/a3720d5a-2e36-42c1-84b0-cf26f23d4d15" width="700" height="500">
+<img src="https://github.com/wwwnnnyyy/MP3D_NET/assets/61683792/a3720d5a-2e36-42c1-84b0-cf26f23d4d15" width="500" height="400">
 
 <img src="https://github.com/wwwnnnyyy/MP3D_NET/assets/61683792/91540836-d19e-41fa-815c-6e2e40573034" width="700" height="500">
 
